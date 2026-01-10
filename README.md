@@ -1,17 +1,24 @@
 # rtCamp WordPress Learning Journey
 
-This repository documents my learning journey for the Associate WordPress Engineer role at rtCamp.
+This repository documents my structured learning path toward becoming an Associate WordPress Engineer at rtCamp.
+
+## Tech Stack
+- PHP (Basics → Advanced)
+- WordPress (Core concepts)
+- Git & GitHub
+
+## Progress Log
+
+### Day 1
+- PHP variables and basics
+- First GitHub commit
 
 ## Goals
-- Learn PHP fundamentals
-- Understand WordPress core, themes & plugins
-- Contribute to open source (WordPress ecosystem)
-- Build discipline through daily GitHub activity
+- Build strong PHP fundamentals
+- Understand WordPress core
+- Contribute to open source
 
-## Day 1
-- GitHub setup
-- PHP basics revision
-- WordPress overview study
+---
 
-I will update this repository daily with notes, code, and learnings.
-
+👤 Author: Devansh Dwivedi  
+🔗 GitHub: https://github.com/Devanshpsit
