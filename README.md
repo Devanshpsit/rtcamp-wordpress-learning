@@ -20,6 +20,12 @@ This repository documents my structured learning path toward becoming an Associa
 
 ---
 
+### Day 2
+- Learned WordPress file structure (wp-admin, wp-includes, wp-content)
+- Created first tiny WordPress theme (style.css & index.php)
+- Understood Pull Request (PR) workflow in open source
+
+
 ### Day 3
 - Created functions.php
 - Learned WordPress hooks (actions & filters)
