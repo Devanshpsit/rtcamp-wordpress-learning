@@ -20,5 +20,10 @@ This repository documents my structured learning path toward becoming an Associa
 
 ---
 
+### Day 3
+- Created functions.php
+- Learned WordPress hooks (actions & filters)
+
+
 👤 Author: Devansh Dwivedi  
 🔗 GitHub: https://github.com/Devanshpsit
