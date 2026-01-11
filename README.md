@@ -30,6 +30,11 @@ This repository documents my structured learning path toward becoming an Associa
 - Created functions.php
 - Learned WordPress hooks (actions & filters)
 
+ ### Day 4
+- Learned how to load CSS using wp_enqueue_style
+- Understood WordPress child theme concept
+
+
 
 👤 Author: Devansh Dwivedi  
 🔗 GitHub: https://github.com/Devanshpsit
